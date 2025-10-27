@@ -2,7 +2,7 @@
 
 python -m venv .venv
 
-1. .\.venv\Scripts\activate  # สำหรับ Windows
+1 .\.venv\Scripts\activate  # สำหรับ Windows
 
 2. source ./.venv/bin/activate  # สำหรับ macOS/Linux
 
